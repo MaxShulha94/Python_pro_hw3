@@ -1,5 +1,6 @@
 import sqlite3
 import random
+
 from faker import Faker
 from flask import Flask
 
